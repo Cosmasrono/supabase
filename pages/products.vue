@@ -1,5 +1,5 @@
 <template>
-  <main class="bg-slate-900 items-center justify-center flex">
+  <main class="bg-slate-900 items-center justify-center flex text-black">
     <div class="">
 
       <h1 class="text-yellow-400 m-6 justify-center items-center flex mx-auto text-3xl">
